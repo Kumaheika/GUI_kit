@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCC8334E-2E92-4783-A6DA-77DF3D393A00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA25AB7E-4CFE-4D57-916F-F1CDF9ECD74D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DE46D2D0-5ABE-4093-A452-C5B4833609F6",
+    "height": 64,
+    "width": 64,
+    "x": 30,
+    "y": 30
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "quark / photo / woman",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FE9AC05-A056-402B-A78B-734DE4F30C70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE324C2F-96E5-4428-A3EC-59B99349C57C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 64,
+            "enabled": 1,
+            "modelID": "constraint_3a1a4be9-9a4f-41bd-918b-a1d679d11618",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 64
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e6ebb4de-d655-4a02-92b3-410a813e8442",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
