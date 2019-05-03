@@ -57,7 +57,7 @@
     "height": 122,
     "width": 365,
     "x": 160,
-    "y": 108
+    "y": 106
   },
   "glyphBounds": "{{0, 5}, {349, 111}}",
   "hasClippingMask": false,
@@ -73,7 +73,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E49497DA-2505-4F6B-B414-2B20981C91E5",
+  "sharedStyleID": "1F236F59-AE18-43EC-AB32-D96E0E14BDF4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -83,7 +83,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B8A15A68-AB6C-4459-9104-0270CE664C25",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C63037A3-B327-4F56-9620-DF4E9BFCC5B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F30E567F-0F84-4E2A-B761-0664B84C62CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E69E0C15-1B72-401E-97A7-B7DED618F21A",
+    "height": 38,
+    "width": 200,
+    "x": 60,
+    "y": 1820
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input / small-dropdow copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D4C9557-1FB9-49EA-B1B7-67BD0C548FF1",
+      "overrideName": "CD6999A6-D302-4778-ADA0-012BD4935E28_stringValue",
+      "value": "請選擇價格排序"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C1AA5C1-3821-4303-8EBA-979E35A96C68",
+      "overrideName": "CC830E59-89E5-41E3-A2E5-DA12F000D2DE_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E996A16B-3696-472F-8672-C78D412B80D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B63D3EF6-BC80-4559-BFF6-57FFA9A0FFC3",
+  "verticalSpacing": 0
+}

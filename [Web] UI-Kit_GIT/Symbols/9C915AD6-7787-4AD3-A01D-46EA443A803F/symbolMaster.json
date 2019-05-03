@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 650,
+  "changeIdentifier": 661,
   "clippingMaskMode": 0,
   "do_objectID": "9C915AD6-7787-4AD3-A01D-46EA443A803F",
   "exportOptions": {
@@ -69,11 +69,6 @@
   "name": "btn / small-Default Block",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "12632AC7-1572-462D-83E5-E536AECF9E84_textStyle"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

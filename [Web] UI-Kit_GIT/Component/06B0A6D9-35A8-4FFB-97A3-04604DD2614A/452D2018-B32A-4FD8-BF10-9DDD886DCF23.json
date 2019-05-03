@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "452D2018-B32A-4FD8-BF10-9DDD886DCF23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E58DE6CC-C6E5-439C-B1E3-FDA457E095B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5138EBF8-9966-4CE4-B73B-7726ADBBF6B2",
+    "height": 105,
+    "width": 345,
+    "x": 383,
+    "y": 1390
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card / class_card_rwd_08",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06A6207C-C93F-492E-A506-D136FBB9736B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "740BB6B0-A2AF-4FB4-BCCA-7BA2BA726508",
+  "verticalSpacing": 0
+}

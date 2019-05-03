@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "28AFF408-6C35-4F8E-93B8-2CEFA8A96966",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCBED688-FD56-42D2-A4AD-6EF7345DD238",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89431093-087C-48A4-AE2F-BB3EFC56F2CE",
+    "height": 31,
+    "width": 31,
+    "x": 224,
+    "y": 260
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / icon btn Samll",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C851F7C5-8E8F-44BE-B8DD-0C23A3D9BFA0",
+      "overrideName": "0F4626A9-78AB-4522-B66C-791B8DE5DBCE_symbolID",
+      "value": "A4718A1F-26C6-4ED9-8D12-71D5B6D63CB6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55D3502C-6373-4A93-9E0A-92B423EA5686",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6B6FCF05-88B4-4036-A2C9-9A4A0A6F5290",
+  "verticalSpacing": 0
+}

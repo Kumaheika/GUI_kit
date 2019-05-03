@@ -138,13 +138,13 @@
             "enabled": 1,
             "modelID": "constraint_8de0c90e-8269-4c53-9b5f-eb51c9b3859c",
             "model_class": "ADModelConstraint",
-            "model_version": 0.1,
+            "model_version": 0,
             "multiplier": 345
           },
           "automatic": 1,
           "modelID": "viewConstraints_0930e216-0742-44c6-a9f0-42ff8d65c521",
           "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
+          "model_version": 0,
           "scaleFactor": 1
         }
       }

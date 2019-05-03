@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BED6E922-D784-4296-9A1C-79EDA35DAD02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF4214E2-2F65-46BA-B602-7B4A435B6A19",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9400AC08-3A7C-4C2C-96BD-352DE16F6E50",
+    "height": 38,
+    "width": 159,
+    "x": 249,
+    "y": 510
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / large-Cyan Copy 13",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08399C3D-CBC4-45DD-8AF8-08B37D8467B2",
+      "overrideName": "A81D8C00-716B-478A-B368-E231A46CC329_stringValue",
+      "value": "外框按鈕樣式2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E975B209-5422-4AB5-8173-13D2CB746107",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "984FE655-D9AC-49BB-8456-5CCE1AD6F72D",
+  "verticalSpacing": 0
+}

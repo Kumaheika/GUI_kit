@@ -55,7 +55,7 @@
     "height": 16,
     "width": 48,
     "x": 152,
-    "y": 329
+    "y": 311
   },
   "glyphBounds": "{{0, 3}, {47, 11}}",
   "hasClippingMask": false,
@@ -81,7 +81,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "3337E0D2-7E9F-4F27-87AC-563D07392877",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

@@ -20,12 +20,14 @@
               "size": 20
             }
           },
+          "MSAttributedStringTextTransformAttribute": 0,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          }
+            "alignment": 2
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
         "length": 4,
         "location": 0
@@ -71,7 +73,7 @@
   "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "30084EBE-7589-4E5D-A102-9C55EF72DE4F",
+  "sharedStyleID": "0D131212-A038-4551-8A9B-51E069520AAF",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +83,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "403372A6-3067-4565-BE65-2823036B2072",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -97,12 +98,14 @@
             "size": 20
           }
         },
+        "MSAttributedStringTextTransformAttribute": 0,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        }
+          "alignment": 2
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },

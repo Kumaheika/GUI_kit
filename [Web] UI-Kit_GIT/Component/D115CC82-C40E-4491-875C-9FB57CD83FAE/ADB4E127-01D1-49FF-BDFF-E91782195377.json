@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADB4E127-01D1-49FF-BDFF-E91782195377",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CE01229-0D18-472B-9C69-6DEC102F9184",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3455D62-810E-4CD3-9FD5-3E077E9F0CE3",
+    "height": 48,
+    "width": 160,
+    "x": 511,
+    "y": 202
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / large-Cyan Copy 18",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8696709-170E-4BB7-A2E3-2C93FBE47F03",
+      "overrideName": "6CFCC55C-5244-45FD-B383-820F4B7E2C55_stringValue",
+      "value": "次色提醒動作"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C9CFFEC-ECA7-40D3-88AE-B037B9764073",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "63B43024-AF12-4B5C-BC4D-9069A3A3691D",
+  "verticalSpacing": 0
+}

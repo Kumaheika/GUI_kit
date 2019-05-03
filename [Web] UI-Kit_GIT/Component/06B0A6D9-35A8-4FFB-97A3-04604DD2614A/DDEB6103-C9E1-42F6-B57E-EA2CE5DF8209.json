@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DDEB6103-C9E1-42F6-B57E-EA2CE5DF8209",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0C6A237-B9C5-4990-AD07-C34415ACC1F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBDFBFF7-3F5F-4616-83DF-7C88965DAAC5",
+    "height": 105,
+    "width": 345,
+    "x": 383,
+    "y": 1494
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card / class_card_rwd_08 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DC3EAB5-367A-4249-AFB8-E03CE041CFF5",
+      "overrideName": "9BEE8AC4-876D-49BE-88D2-FD6DDB07460C_symbolID",
+      "value": "2F2E10F1-F77A-4939-8180-FBAFC3BA48B0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D2343FC-10C7-400E-8E55-891ED7CDED0B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "740BB6B0-A2AF-4FB4-BCCA-7BA2BA726508",
+  "verticalSpacing": 0
+}

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 145,
+  "changeIdentifier": 205,
   "clippingMaskMode": 0,
   "do_objectID": "3CA84443-1052-4297-AD7F-420E84CB0AA0",
   "exportOptions": {
@@ -27,13 +27,13 @@
     "height": 18,
     "width": 18,
     "x": 0,
-    "y": 490
+    "y": 887
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,20 +50,25 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "2A72DDA2-A20F-4617-9144-C539D2E149F9"
-    },
     {
       "class": "shapePath",
       "id": "3E0FF317-BDED-41C6-8978-063E21D65CF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6DE3B33-4070-46A8-8911-EDD228484E71"
     }
   ],
   "name": "icons / add_favor",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D6DE3B33-4070-46A8-8911-EDD228484E71_symbolID"
+    }
   ],
   "resizesContent": true,
   "resizingConstraint": 63,

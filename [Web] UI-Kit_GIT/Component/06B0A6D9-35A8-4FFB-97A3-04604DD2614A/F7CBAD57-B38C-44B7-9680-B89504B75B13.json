@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7CBAD57-B38C-44B7-9680-B89504B75B13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5FB2AA75-FACB-4168-9238-98D13C0F8E2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D24623E-A35B-4CC2-8C68-FADC06F08341",
+    "height": 260,
+    "width": 555,
+    "x": 60,
+    "y": 2997
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card / teacher_card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3179E46E-63D7-4CD0-95DC-04DE7C84533B",
+      "overrideName": "C3204A34-4699-46E0-ABDE-0EEE98C9CF81_stringValue",
+      "value": "張老師 - 20px"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91866C84-4269-4884-AB5E-45377EFCAE8A",
+      "overrideName": "246D4E99-AD5E-4DA0-BDD7-173AA6AE476D_stringValue",
+      "value": "16px - 低調神人 - 張老師，超過十年的OpenSource安裝與系統建置、網路管理經驗，加上近十年的IT技術養成班教學經驗，擅長將複雜的問題簡單化，讓本來學不會的人，都能開心做出來。乎是找不到了。OpenSource安裝與系統建置..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8216CA9-2722-4796-BF6E-7150120714B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E37AEE86-9929-4B6D-87CE-2A222871AEE6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 857,
+  "changeIdentifier": 926,
   "clippingMaskMode": 0,
   "do_objectID": "7D7F6136-8504-455E-A6A5-3F3406385B96",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 48,
     "width": 120,
     "x": 180,
-    "y": 396
+    "y": 679
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -55,6 +55,10 @@
     {
       "class": "rectangle",
       "id": "E60A9D3A-4315-4AFD-8D24-A672BCB4007E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1D62884-6992-4292-AD37-0A491A25BA4A"
     },
     {
       "class": "text",

@@ -33,6 +33,12 @@
   "name": "tag / red",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0AD27F3F-3879-4966-B429-E4B5F391BA9E",
+      "overrideName": "853705B4-8B88-4586-9BA1-ECA01060BD6E_symbolID",
+      "value": "0E2D770E-0328-43DC-AB83-055695905FBC"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

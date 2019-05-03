@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 323,
+  "changeIdentifier": 503,
   "clippingMaskMode": 0,
   "do_objectID": "4738196A-C241-4470-AE17-443BDF1A8AB2",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "20929484-087C-41B5-887D-ACFAD0028449",
     "height": 260,
     "width": 555,
-    "x": 946,
-    "y": 777
+    "x": 1384,
+    "y": 967
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -82,8 +82,8 @@
       "id": "590F06A4-B368-464A-9DB6-7507EA9B5E34"
     }
   ],
-  "name": "card / teacher_card",
-  "nameIsFixed": false,
+  "name": "cards / teacher_card",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 230,
+  "changeIdentifier": 402,
   "clippingMaskMode": 0,
   "do_objectID": "95CF810D-423C-47DD-A4E3-F1922CCEA5AF",
   "exportOptions": {
@@ -29,15 +29,15 @@
     "do_objectID": "3E7DD60A-D98A-4A8E-ADB6-4022AA834908",
     "height": 223,
     "width": 358,
-    "x": 1979,
-    "y": 777
+    "x": 2417,
+    "y": 967
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "6589435A-C79A-4688-90A2-BF1B01C5CBEF"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -74,8 +74,8 @@
       "id": "8B292013-26E2-4CAF-A943-F319B44C44F8"
     }
   ],
-  "name": "card / company_card",
-  "nameIsFixed": false,
+  "name": "cards / company_card",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

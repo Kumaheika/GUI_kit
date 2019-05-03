@@ -71,7 +71,7 @@
   "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "30084EBE-7589-4E5D-A102-9C55EF72DE4F",
+  "sharedStyleID": "08055CC9-7FD2-4B94-9DAA-FB9921B8A13F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +81,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0AA60122-628E-4A49-B21A-CBF689A30D70",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

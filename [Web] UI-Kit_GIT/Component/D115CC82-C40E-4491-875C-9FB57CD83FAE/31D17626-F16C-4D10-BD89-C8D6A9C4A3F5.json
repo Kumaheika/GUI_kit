@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "31D17626-F16C-4D10-BD89-C8D6A9C4A3F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA2077B2-62F0-4DFC-BE2E-27430F4AFE31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E6F0A76-C00A-428A-8F37-A99369B14602",
+    "height": 38,
+    "width": 151,
+    "x": 241,
+    "y": 1096
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / large-Cyan Copy 17",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C494F969-A8B9-4065-A850-BF807E0E237B",
+      "overrideName": "1300BF29-8979-46B4-90AB-67C34D0D51E5_stringValue",
+      "value": "Default 預設按鈕"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "9FCBEF91-D52A-4571-8C8D-29D3F341FDB4",
+      "opacity": 0.2992001488095238
+    },
+    "do_objectID": "3FAB19A7-C708-4EAC-AFE2-1B3103FE1CEB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "35C28F13-65BB-4C22-92CD-CC0916540563",
+  "verticalSpacing": 0
+}

@@ -69,10 +69,11 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DD25A7CE-FB53-418C-9842-AE7D8F935F23",
+  "sharedStyleID": "5D16882C-05A1-47BF-ADC0-45925B594BD3",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "95469F82-81C2-4C90-99E1-68DF703EB72C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

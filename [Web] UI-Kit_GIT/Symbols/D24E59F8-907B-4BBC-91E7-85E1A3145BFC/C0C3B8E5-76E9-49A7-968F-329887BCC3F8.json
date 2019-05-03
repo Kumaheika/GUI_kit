@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0C3B8E5-76E9-49A7-968F-329887BCC3F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4819329F-59AF-46D7-BD80-B810A06541D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09F5E955-4E78-4D99-83BB-9B06AEDBB7CA",
+    "height": 31,
+    "width": 94,
+    "x": 236,
+    "y": 98
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / small-Cyan",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43279D93-408E-49EA-8713-3C1A890C2DD2",
+      "overrideName": "5BCC82F7-0331-436E-8F4B-A1B71CC2626D_stringValue",
+      "value": "加入購物車"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5834B5E-4E07-484B-80F7-347BABCE656E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAF70A61-65B8-4EDB-9B12-4F20903F5B3C",
+  "verticalSpacing": 0
+}

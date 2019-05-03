@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 135,
+  "changeIdentifier": 276,
   "clippingMaskMode": 0,
   "do_objectID": "C9EE0023-54A8-4182-93E5-2AE1F73991BC",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "DCA38C0B-B808-4270-B879-595C8D525E9E",
     "height": 223,
     "width": 358,
-    "x": 1561,
-    "y": 777
+    "x": 1999,
+    "y": 967
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -78,8 +78,8 @@
       "id": "CCC8334E-2E92-4783-A6DA-77DF3D393A00"
     }
   ],
-  "name": "card / student_card",
-  "nameIsFixed": false,
+  "name": "cards / student_card",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -95,11 +95,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "4F67233B-D4BB-4C48-B09D-C6B0912C6A77_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "18F3ED2D-1DAC-440A-8BB1-53B3C2353648_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

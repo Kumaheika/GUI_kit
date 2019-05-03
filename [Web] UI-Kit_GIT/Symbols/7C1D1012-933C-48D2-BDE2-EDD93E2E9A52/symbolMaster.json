@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 902,
+  "changeIdentifier": 934,
   "clippingMaskMode": 0,
   "do_objectID": "7C1D1012-933C-48D2-BDE2-EDD93E2E9A52",
   "exportOptions": {
@@ -30,7 +30,7 @@
     "height": 48,
     "width": 120,
     "x": 540,
-    "y": 396
+    "y": 679
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",

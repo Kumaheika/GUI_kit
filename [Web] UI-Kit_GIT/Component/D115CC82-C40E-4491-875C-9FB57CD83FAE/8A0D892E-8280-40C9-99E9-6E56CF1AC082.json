@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A0D892E-8280-40C9-99E9-6E56CF1AC082",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30D5896A-6FAB-4FF1-A714-F4626105C966",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE4E9987-2444-4F54-B383-C85B76EE61A6",
+    "height": 28,
+    "width": 28,
+    "x": 232,
+    "y": 578
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / icon btn Large Copy 13",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C5ABD6F-A950-4730-8736-4927207C148B",
+      "overrideName": "C7B41D13-9232-4476-9299-AE5CA39ACC22_symbolID",
+      "value": "43DE9B7E-F379-4356-93A6-3B1D2DAC7608"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB730AA0-D7EF-4915-B054-D3322A588CE2",
+      "overrideName": "AD9174B7-F89D-4222-BCDD-9E39407FA68C_symbolID",
+      "value": "BD780289-F30A-4B6C-9865-36F2BEBFC731"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCEEE339-EE04-43BB-BC1F-689BAB2F8170",
+      "overrideName": "AD9174B7-F89D-4222-BCDD-9E39407FA68C/683CF56F-E618-469B-9F4B-C979136776FD_symbolID",
+      "value": "BE29FEDD-5A39-4804-881F-72C3E4B855B0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39B8D968-F956-43CD-87BB-437871B2CF63",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2B60815D-C0AD-42D7-A8AD-D079CFB561F9",
+  "verticalSpacing": 0
+}

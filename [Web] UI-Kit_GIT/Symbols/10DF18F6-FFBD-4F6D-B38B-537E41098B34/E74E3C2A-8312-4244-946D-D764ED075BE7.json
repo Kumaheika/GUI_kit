@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E74E3C2A-8312-4244-946D-D764ED075BE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 58,
+    "x": 0,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tag / radius_0",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD0844AD-FC24-4F91-9756-5B7B77D7BE25",
+      "overrideName": "1B613EA8-17BA-46A0-858C-E0EFA98852B1_stringValue",
+      "value": "直播課程"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82FD090F-7628-4E3D-B809-F940DE77742A",
+      "overrideName": "853705B4-8B88-4586-9BA1-ECA01060BD6E_symbolID",
+      "value": "731431C1-0F0D-4237-8993-F4517402D87F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6E699197-2822-4090-9398-169CE34C2912",
+  "verticalSpacing": 0
+}

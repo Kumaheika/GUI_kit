@@ -21,7 +21,7 @@
     "x": 2,
     "y": 2.999999999999975
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -152,7 +152,7 @@
           "red": 0.7020000000000001
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -172,13 +172,13 @@
             "enabled": 1,
             "modelID": "constraint_acf97441-62e3-4df3-a459-71d446041dce",
             "model_class": "ADModelConstraint",
-            "model_version": 0.1,
+            "model_version": 0,
             "multiplier": 14
           },
           "automatic": 1,
           "modelID": "viewConstraints_015c197e-dd87-4fa5-a87d-7c26806c355c",
           "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
+          "model_version": 0,
           "scaleFactor": 1
         }
       }
